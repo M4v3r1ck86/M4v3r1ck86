@@ -60,57 +60,6 @@ I also have a software engineering background with **Python, Django, FastAPI, Do
 
 > These are the types of repositories I use to demonstrate production-oriented Data Engineering skills.
 
-### 1. Data Lakehouse Architecture Case
-
-**Stack:** PySpark, Databricks, S3/Parquet, SQL, Data Quality, Lakehouse Layers  
-**Focus:** Raw → Trusted → Refined architecture, analytical queries, partitioning strategy, data validation, quarantine layer and technical documentation.
-
-Repository: [`ifood-data-architecture-case`](https://github.com/M4v3r1ck86/ifood-data-architecture-case)
-
----
-
-### 2. End-to-End Data Platform Case
-
-**Stack:** PySpark, Airflow, FastAPI, Docker Compose, DuckDB, Prometheus, Terraform, AWS  
-**Focus:** Local reproducibility, orchestration, API serving layer, observability, tests, infrastructure-as-code and FinOps documentation.
-
-Repository: [`end-to-end-data-platform`](https://github.com/M4v3r1ck86/end-to-end-data-platform)
-
----
-
-### 3. API Ingestion Pipeline
-
-**Stack:** Python, Airflow, REST APIs, S3, Parquet, PySpark, Data Quality  
-**Focus:** API extraction, pagination, retries, incremental ingestion, schema validation, raw-to-trusted processing and monitoring.
-
-Repository: [`api-ingestion-data-pipeline`](https://github.com/M4v3r1ck86/api-ingestion-data-pipeline)
-
----
-
-### 4. Data Quality & Observability Framework
-
-**Stack:** Python, SQL, Great Expectations/Custom Checks, Prometheus, Logging, Alerts  
-**Focus:** Reusable validation framework for data pipelines, including completeness, uniqueness, freshness, schema drift and SLA checks.
-
-Repository: [`data-quality-observability-framework`](https://github.com/M4v3r1ck86/data-quality-observability-framework)
-
----
-
-### 5. Terraform Data Platform Infrastructure
-
-**Stack:** Terraform, AWS, IAM, S3, KMS, Networking, GitHub Actions  
-**Focus:** Infrastructure-as-code for a data platform foundation, security boundaries, environment separation and cost-aware architecture.
-
-Repository: [`terraform-data-platform-infra`](https://github.com/M4v3r1ck86/terraform-data-platform-infra)
-
----
-
-### 6. SQL & PySpark Analytics Lab
-
-**Stack:** SQL, BigQuery-style queries, PySpark, Window Functions, Data Modeling  
-**Focus:** Analytical problem solving, performance-oriented transformations, dimensional modeling and reusable query patterns.
-
-Repository: [`sql-pyspark-analytics-lab`](https://github.com/M4v3r1ck86/sql-pyspark-analytics-lab)
 
 ---
 
