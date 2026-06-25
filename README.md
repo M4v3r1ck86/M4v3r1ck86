@@ -87,20 +87,80 @@ I like to build data solutions that are:
 
 ---
 
-## Tech stack
+## 🛠️ Tech Stack
 
-| Area | Technologies |
-|---|---|
-| Languages | Python, SQL |
-| Data Processing | Spark, PySpark, Pandas |
-| Orchestration | Airflow, Cloud Composer |
-| Cloud | GCP, AWS |
-| GCP Data Stack | BigQuery, Dataproc, Cloud Storage, Pub/Sub, Cloud Functions |
-| AWS Data Stack | S3, IAM, Athena/Glue concepts, Redshift concepts |
-| Lakehouse | Databricks, Delta concepts, Parquet |
-| Backend | FastAPI, Django |
-| DevOps/DataOps | Docker, Docker Compose, GitHub Actions, Terraform, Git |
-| Quality & Observability | pytest, data validation, logging, metrics, SLA monitoring |
+### Data Engineering
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### Cloud & Data Platforms
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Dataproc](https://img.shields.io/badge/Dataproc-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud Composer](https://img.shields.io/badge/Cloud%20Composer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### Backend & Software Engineering
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+### Data Quality, Governance & Observability
+
+![Data Quality](https://img.shields.io/badge/Data%20Quality-2E7D32?style=for-the-badge)
+![Data Governance](https://img.shields.io/badge/Data%20Governance-1565C0?style=for-the-badge)
+![Observability](https://img.shields.io/badge/Observability-6A1B9A?style=for-the-badge)
+![Monitoring](https://img.shields.io/badge/Monitoring-455A64?style=for-the-badge)
+![SLA](https://img.shields.io/badge/SLA-37474F?style=for-the-badge)
+![Data Lineage](https://img.shields.io/badge/Data%20Lineage-00897B?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4v3r1ck86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M4v3r1ck86&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=M4v3r1ck86&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 Focus Areas
+
+![Batch Processing](https://img.shields.io/badge/Batch%20Processing-1E88E5?style=for-the-badge)
+![Streaming](https://img.shields.io/badge/Streaming-D81B60?style=for-the-badge)
+![Data Lakehouse](https://img.shields.io/badge/Data%20Lakehouse-5E35B1?style=for-the-badge)
+![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-3949AB?style=for-the-badge)
+![Data Platforms](https://img.shields.io/badge/Data%20Platforms-00897B?style=for-the-badge)
+![Pipeline Orchestration](https://img.shields.io/badge/Pipeline%20Orchestration-F57C00?style=for-the-badge)
+![Analytics Engineering](https://img.shields.io/badge/Analytics%20Engineering-546E7A?style=for-the-badge)
+![Cost Optimization](https://img.shields.io/badge/Cost%20Optimization-2E7D32?style=for-the-badge)
 
 ---
 
