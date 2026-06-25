@@ -3,7 +3,7 @@
 **Data Engineer | Cloud Data Platforms | Batch & Streaming Pipelines | Python, SQL, PySpark, Airflow, GCP & AWS**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Grismond-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jonathan-grismond/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/M4v3r1ck86)
 [![Python](https://img.shields.io/badge/Python-Data%20Engineering-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-Analytics%20%26%20Modeling-lightgrey?style=for-the-badge)](#)
 [![Spark](https://img.shields.io/badge/Apache%20Spark-PySpark-orange?style=for-the-badge&logo=apachespark)](https://spark.apache.org/)
@@ -65,7 +65,7 @@ I also have a software engineering background with **Python, Django, FastAPI, Do
 **Stack:** PySpark, Databricks, S3/Parquet, SQL, Data Quality, Lakehouse Layers  
 **Focus:** Raw → Trusted → Refined architecture, analytical queries, partitioning strategy, data validation, quarantine layer and technical documentation.
 
-Repository: [`ifood-data-architecture-case`](https://github.com/YOUR_GITHUB_USERNAME/ifood-data-architecture-case)
+Repository: [`ifood-data-architecture-case`](https://github.com/M4v3r1ck86/ifood-data-architecture-case)
 
 ---
 
@@ -74,7 +74,7 @@ Repository: [`ifood-data-architecture-case`](https://github.com/YOUR_GITHUB_USER
 **Stack:** PySpark, Airflow, FastAPI, Docker Compose, DuckDB, Prometheus, Terraform, AWS  
 **Focus:** Local reproducibility, orchestration, API serving layer, observability, tests, infrastructure-as-code and FinOps documentation.
 
-Repository: [`end-to-end-data-platform`](https://github.com/YOUR_GITHUB_USERNAME/end-to-end-data-platform)
+Repository: [`end-to-end-data-platform`](https://github.com/M4v3r1ck86/end-to-end-data-platform)
 
 ---
 
@@ -83,7 +83,7 @@ Repository: [`end-to-end-data-platform`](https://github.com/YOUR_GITHUB_USERNAME
 **Stack:** Python, Airflow, REST APIs, S3, Parquet, PySpark, Data Quality  
 **Focus:** API extraction, pagination, retries, incremental ingestion, schema validation, raw-to-trusted processing and monitoring.
 
-Repository: [`api-ingestion-data-pipeline`](https://github.com/YOUR_GITHUB_USERNAME/api-ingestion-data-pipeline)
+Repository: [`api-ingestion-data-pipeline`](https://github.com/M4v3r1ck86/api-ingestion-data-pipeline)
 
 ---
 
@@ -92,7 +92,7 @@ Repository: [`api-ingestion-data-pipeline`](https://github.com/YOUR_GITHUB_USERN
 **Stack:** Python, SQL, Great Expectations/Custom Checks, Prometheus, Logging, Alerts  
 **Focus:** Reusable validation framework for data pipelines, including completeness, uniqueness, freshness, schema drift and SLA checks.
 
-Repository: [`data-quality-observability-framework`](https://github.com/YOUR_GITHUB_USERNAME/data-quality-observability-framework)
+Repository: [`data-quality-observability-framework`](https://github.com/M4v3r1ck86/data-quality-observability-framework)
 
 ---
 
@@ -101,7 +101,7 @@ Repository: [`data-quality-observability-framework`](https://github.com/YOUR_GIT
 **Stack:** Terraform, AWS, IAM, S3, KMS, Networking, GitHub Actions  
 **Focus:** Infrastructure-as-code for a data platform foundation, security boundaries, environment separation and cost-aware architecture.
 
-Repository: [`terraform-data-platform-infra`](https://github.com/YOUR_GITHUB_USERNAME/terraform-data-platform-infra)
+Repository: [`terraform-data-platform-infra`](https://github.com/M4v3r1ck86/terraform-data-platform-infra)
 
 ---
 
@@ -110,7 +110,7 @@ Repository: [`terraform-data-platform-infra`](https://github.com/YOUR_GITHUB_USE
 **Stack:** SQL, BigQuery-style queries, PySpark, Window Functions, Data Modeling  
 **Focus:** Analytical problem solving, performance-oriented transformations, dimensional modeling and reusable query patterns.
 
-Repository: [`sql-pyspark-analytics-lab`](https://github.com/YOUR_GITHUB_USERNAME/sql-pyspark-analytics-lab)
+Repository: [`sql-pyspark-analytics-lab`](https://github.com/M4v3r1ck86/sql-pyspark-analytics-lab)
 
 ---
 
@@ -158,8 +158,5 @@ I like to build data solutions that are:
 ## Contact
 
 - LinkedIn: [linkedin.com/in/jonathan-grismond](https://www.linkedin.com/in/jonathan-grismond/)
-- GitHub: [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- GitHub: [github.com/M4v3r1ck86](https://github.com/M4v3r1ck86)
 - Location: Brazil
-```
-
----
